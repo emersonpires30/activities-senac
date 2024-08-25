@@ -1,0 +1,1 @@
+﻿decimal peso = 0, somaAlturas = 0, qtdeMais90kg = 0, qtMenos50Kg = 0, qtdeMenos50KgMenos1_

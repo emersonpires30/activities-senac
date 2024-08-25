@@ -1,0 +1,4 @@
+C:\Users\Aluno\Documents\Emerson - Curso Programação\ExerciciosPortugol\Exercicio53\obj\Debug\net8.0\Exercicio53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Emerson - Curso Programação\ExerciciosPortugol\Exercicio53\obj\Debug\net8.0\Exercicio53.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Emerson - Curso Programação\ExerciciosPortugol\Exercicio53\obj\Debug\net8.0\Exercicio53.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Emerson - Curso Programação\ExerciciosPortugol\Exercicio53\obj\Debug\net8.0\Exercicio53.csproj.CoreCompileInputs.cache

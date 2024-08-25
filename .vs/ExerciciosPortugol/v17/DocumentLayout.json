@@ -1,0 +1,916 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio64\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio64\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Documents\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio53\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio 63\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio 63\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio62\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio62\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio61\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio61\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio60\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio60\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio59\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio59\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio58\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio58\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio56\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio56\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio55\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio55\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio48\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio48\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio57\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio57\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio54\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio54\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio53\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio53\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio50\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio50\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio47\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio47\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio46\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio46\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio13\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio13\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio51\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio51\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio44\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio44\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio43\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio43\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio41\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio41\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio45\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio45\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio40\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio40\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio39\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio39\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio27\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio27\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio52\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio52\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio42\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio42\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio38\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio38\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio37\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio37\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio30\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio30\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio29\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio29\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio28\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio28\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio26\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio26\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio25\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio25\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio24\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio24\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\EXERCICIO23\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EXERCICIO23\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio22\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio22\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio21\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio21\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio20\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio20\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio18\\Exercicio18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio18\\Exercicio18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio19\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio19\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio18\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio18\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio17\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio17\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio16\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio16\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio15\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio15\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio14\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio14\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio12\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio12\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio11\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio11\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio 10\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio 10\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio9\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio9\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio64\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio64\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio64\\Program.cs",
+              "RelativeToolTip": "Exercicio64\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:34:22.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio 63\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 63\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio 63\\Program.cs",
+              "RelativeToolTip": "Exercicio 63\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:31:42.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio62\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio62\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio62\\Program.cs",
+              "RelativeToolTip": "Exercicio62\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:26:25.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio61\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio61\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio61\\Program.cs",
+              "RelativeToolTip": "Exercicio61\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:24:18.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio60\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio60\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio60\\Program.cs",
+              "RelativeToolTip": "Exercicio60\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:21:34.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio59\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio59\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio59\\Program.cs",
+              "RelativeToolTip": "Exercicio59\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:56:58.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio58\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio58\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio58\\Program.cs",
+              "RelativeToolTip": "Exercicio58\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:06:11.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio56\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio56\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio56\\Program.cs",
+              "RelativeToolTip": "Exercicio56\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:41:13.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio55\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio55\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio55\\Program.cs",
+              "RelativeToolTip": "Exercicio55\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:33:38.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio48\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio48\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio48\\Program.cs",
+              "RelativeToolTip": "Exercicio48\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:54:05.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio57\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio57\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio57\\Program.cs",
+              "RelativeToolTip": "Exercicio57\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:54:55.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio54\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio54\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio54\\Program.cs",
+              "RelativeToolTip": "Exercicio54\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:21:37.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio53\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio53\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio53\\Program.cs",
+              "RelativeToolTip": "Exercicio53\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:39:14.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio50\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio50\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio50\\Program.cs",
+              "RelativeToolTip": "Exercicio50\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:01:38.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio47\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio47\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio47\\Program.cs",
+              "RelativeToolTip": "Exercicio47\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:50:08.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio46\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio46\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio46\\Program.cs",
+              "RelativeToolTip": "Exercicio46\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:14:10.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio13\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio13\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio13\\Program.cs",
+              "RelativeToolTip": "Exercicio13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:38:48.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio51\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio51\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio51\\Program.cs",
+              "RelativeToolTip": "Exercicio51\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:16:31.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio44\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio44\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio44\\Program.cs",
+              "RelativeToolTip": "Exercicio44\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:56:48.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio43\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio43\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio43\\Program.cs",
+              "RelativeToolTip": "Exercicio43\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:48:58.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio41\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio41\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio41\\Program.cs",
+              "RelativeToolTip": "Exercicio41\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:37:45.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio3\\Program.cs",
+              "RelativeToolTip": "Exercicio3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:59:29.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio45\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio45\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio45\\Program.cs",
+              "RelativeToolTip": "Exercicio45\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:07:13.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio40\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio40\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio40\\Program.cs",
+              "RelativeToolTip": "Exercicio40\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:34:36.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio39\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio39\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio39\\Program.cs",
+              "RelativeToolTip": "Exercicio39\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:31:10.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio27\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio27\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio27\\Program.cs",
+              "RelativeToolTip": "Exercicio27\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:09:21.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio52\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio52\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio52\\Program.cs",
+              "RelativeToolTip": "Exercicio52\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:24:58.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio42\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio42\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio42\\Program.cs",
+              "RelativeToolTip": "Exercicio42\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:43:25.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio38\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio38\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio38\\Program.cs",
+              "RelativeToolTip": "Exercicio38\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:25:31.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio37\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio37\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio37\\Program.cs",
+              "RelativeToolTip": "Exercicio37\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:21:31.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio30\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio30\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio30\\Program.cs",
+              "RelativeToolTip": "Exercicio30\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:18:36.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio29\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio29\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio29\\Program.cs",
+              "RelativeToolTip": "Exercicio29\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:04:56.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio28\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio28\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio28\\Program.cs",
+              "RelativeToolTip": "Exercicio28\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:47:30.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio26\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio26\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio26\\Program.cs",
+              "RelativeToolTip": "Exercicio26\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:01:14.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio25\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio25\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio25\\Program.cs",
+              "RelativeToolTip": "Exercicio25\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:38:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio24\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio24\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio24\\Program.cs",
+              "RelativeToolTip": "Exercicio24\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:30:10.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\EXERCICIO23\\Program.cs",
+              "RelativeDocumentMoniker": "EXERCICIO23\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\EXERCICIO23\\Program.cs",
+              "RelativeToolTip": "EXERCICIO23\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:19:24.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio22\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio22\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio22\\Program.cs",
+              "RelativeToolTip": "Exercicio22\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:36:23.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio21\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio21\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio21\\Program.cs",
+              "RelativeToolTip": "Exercicio21\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:24:59.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio20\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio20\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio20\\Program.cs",
+              "RelativeToolTip": "Exercicio20\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:19:32.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Exercicio18.csproj",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio18\\Exercicio18.csproj",
+              "RelativeDocumentMoniker": "Exercicio18\\Exercicio18.csproj",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio18\\Exercicio18.csproj",
+              "RelativeToolTip": "Exercicio18\\Exercicio18.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T00:07:11.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio19\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio19\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio19\\Program.cs",
+              "RelativeToolTip": "Exercicio19\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:06:57.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio18\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio18\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio18\\Program.cs",
+              "RelativeToolTip": "Exercicio18\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:52:23.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio17\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio17\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio17\\Program.cs",
+              "RelativeToolTip": "Exercicio17\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:45:35.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio16\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio16\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio16\\Program.cs",
+              "RelativeToolTip": "Exercicio16\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:05:11.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio15\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio15\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio15\\Program.cs",
+              "RelativeToolTip": "Exercicio15\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:58:00.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio14\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio14\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio14\\Program.cs",
+              "RelativeToolTip": "Exercicio14\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:49:05.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio12\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio12\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio12\\Program.cs",
+              "RelativeToolTip": "Exercicio12\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:33:36.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio11\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio11\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio11\\Program.cs",
+              "RelativeToolTip": "Exercicio11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T00:32:23.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio 10\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 10\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio 10\\Program.cs",
+              "RelativeToolTip": "Exercicio 10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T00:24:43.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio9\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio9\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio9\\Program.cs",
+              "RelativeToolTip": "Exercicio9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T00:15:07.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio6\\Program.cs",
+              "RelativeToolTip": "Exercicio6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:51:51.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio53\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aluno\\Documents\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio53\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio53\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aluno\\Documents\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio53\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:41:14.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio4\\Program.cs",
+              "RelativeToolTip": "Exercicio4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:08:41.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:47:03.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Emerson - Curso Programa\u00E7\u00E3o\\ExerciciosPortugol\\Exercicio1\\Program.cs",
+              "RelativeToolTip": "Exercicio1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:45:01.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
